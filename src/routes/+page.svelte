@@ -130,6 +130,30 @@
         icon: "⚔️",
         image: "/images/games/gamecube/mele.jpg"
       }
+            { 
+        name: "Need for Speed Carbon", 
+        url: "https://pan.huang1111.cn/s/3eK8zhm", 
+        icon: "🏎️",
+        image: "/images/games/gamecube/nfs carbon.png"
+      }
+            { 
+        name: "Need for Speed Most Wanted", 
+        url: "https://pan.huang1111.cn/s/O8aqNcL", 
+        icon: "🏎️",
+        image: "/images/games/gamecube/nfs most wanted.png"
+      }
+            { 
+        name: "Need for Speed Underground", 
+        url: "https://pan.huang1111.cn/s/qgEejI3", 
+        icon: "🏎️",
+        image: "/images/games/gamecube/nfs underground.png"
+      }
+            { 
+        name: "Need for Speed Underground 2", 
+        url: "https://pan.huang1111.cn/s/eNaxaug", 
+        icon: "🏎️",
+        image: "/images/games/gamecube/nfs underground 2.png"
+      }
     ],
     tools: [
       { 
